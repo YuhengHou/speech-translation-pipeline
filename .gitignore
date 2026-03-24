@@ -1,28 +1,13 @@
-# Python
+.venv/
 __pycache__/
 *.pyc
 
-# virtual environment
-.venv/
-
-# Mac
-.DS_Store
-
-# audio files
-*.wav
-*.m4a
-
-# output directory
 data/output/
+*.wav
 
-# model files
-*.bin
+.cache/
 *.pt
-*.pth
-*.safetensors
+*.bin
+*.onnx
 
-# notebooks
-.ipynb_checkpoints/
-
-# environment variables
 .env

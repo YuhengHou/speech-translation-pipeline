@@ -1,0 +1,7 @@
+torch==2.6.0
+torchaudio==2.6.0
+transformers==4.48.0
+sentencepiece
+soundfile
+librosa
+faster-whisper
